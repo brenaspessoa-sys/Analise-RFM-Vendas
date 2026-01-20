@@ -16,6 +16,17 @@ A técnica RFM classifica os clientes com base em três pilares comportamentais:
 * **F (Frequência):** Quantas vezes ele comprou no período?
 * **M (Monetarização):** Qual o valor total gasto?
 
+## 📂 Estrutura do Repositório
+
+Aqui está a descrição de cada arquivo presente neste projeto:
+
+| Arquivo | Descrição |
+| :--- | :--- |
+| `analise_vendas_2018_2023.py` | **Código Principal:** Script Python contendo toda a lógica de ETL, cálculos estatísticos e a interface gráfica (Tkinter). |
+| `vendas2018_2023.csv` | **Input (Entrada):** Base de dados bruta com o histórico de vendas necessário para iniciar a análise. |
+| `df_agregado_cliente.csv` | **Output (Saída):** Arquivo gerado automaticamente pelo script contendo a segmentação final e as ações sugeridas. |
+| `README.md` | Documentação oficial do projeto com instruções de uso. |
+
 ## 📋 Funcionalidades do Projeto
 
 1.  **Interface Interativa:** Janelas pop-up (Tkinter) mostram os dados sendo transformados em tempo real (Carregamento -> Limpeza -> Agregação -> Segmentação).
@@ -38,18 +49,14 @@ A técnica RFM classifica os clientes com base em três pilares comportamentais:
 ## 📦 Pré-requisitos e Como Executar
 
 ### 1. Preparação do Arquivo
-Para que o script funcione, você precisa de um arquivo chamado `vendas2018_2023.csv` no mesmo diretório do script, contendo as colunas:
-* `data_venda`
-* `cliente`
-* `quantidade`
-* `valor_venda`
+Para que o script funcione, certifique-se de que o arquivo `vendas2018_2023.csv` está na mesma pasta do script `analise_vendas_2018_2023.py`.
 
 ### 2. Executando o Código
-Certifique-se de ter as bibliotecas instaladas e rode o script:
+Certifique-se de ter as bibliotecas instaladas (`pandas`, `tkinter`) e rode o script:
 
 ```bash
 # Clone o repositório
 git clone [https://github.com/brenaspessoa-sys/Analise-RFM-Vendas.git](https://github.com/brenaspessoa-sys/Analise-RFM-Vendas.git)
 
 # Execute o script
-python analise_vendas.py
+python analise_vendas_2018_2023.py
