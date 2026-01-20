@@ -1,0 +1,892 @@
+cliente,recencia,frequencia,monetario,total_produtos_comprados,R,F,M,RFM_Score,RFM_Segment,Classe_Score,Classe_Segmento,Acao
+Alex Alves,53,44,39481.0,109,4,4,3,11,443,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Alex Araujo,76,27,14660.0,53,4,1,1,6,411,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Alex Barbosa,137,51,52222.0,131,5,5,4,14,554,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Alex Barros,36,41,42977.0,110,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Alex Cardoso,17,19,13369.0,48,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Alex Ribeiro,9,36,42322.0,104,1,3,4,8,134,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Alex Sousa,83,73,71885.0,189,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Alex Souza,49,76,85365.0,184,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Alice Almeida,15,26,24829.0,66,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Alice Araujo,277,33,29523.0,55,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Alice Azevedo,11,33,47301.0,85,1,2,4,7,124,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Alice Cardoso,54,33,28516.0,78,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Alice Goncalves,15,39,35717.0,87,2,3,3,8,233,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Alice Melo,156,37,21675.0,94,5,3,1,9,531,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Alice Ribeiro,3,52,42241.0,146,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Alice Santos,92,54,48612.0,125,4,5,4,13,454,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Aline Alves,6,41,38479.0,104,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Aline Correia,40,43,48034.0,103,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Aline Fernandes,142,55,51001.0,157,5,5,4,14,554,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Aline Pinto,103,73,69781.0,177,5,5,5,15,555,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Amanda Almeida,10,21,21035.0,49,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Amanda Cavalcanti,26,62,80484.0,148,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Amanda Fernandes,101,39,56069.0,91,5,3,5,13,535,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Amanda Ferreira,26,62,66947.0,150,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Amanda Lima,44,32,33049.0,71,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Amanda Melo,71,67,61777.0,150,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Amanda Santos,56,30,26616.0,81,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Ana Almeida,175,36,33850.0,75,5,3,2,10,532,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Ana Alves,11,23,16602.0,48,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Ana Carvalho,9,38,47795.0,88,1,3,4,8,134,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Ana Costa,207,25,14974.0,58,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Ana Fernandes,126,26,20835.0,70,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Ana Santos,40,30,19810.0,90,3,2,1,6,321,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+André Alves,38,63,86717.0,168,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+André Martins,52,69,67742.0,168,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+André Rocha,84,43,47400.0,109,4,4,4,12,444,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+André Silva,62,39,38099.0,100,4,3,3,10,433,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+André Sousa,5,77,69741.0,198,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Anna Castro,97,36,33538.0,74,4,3,2,9,432,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Anna Lima,31,34,38075.0,87,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Anna Oliveira,20,53,58929.0,139,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Antônio Cardoso,95,32,23929.0,52,4,2,1,7,421,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Antônio Correia,44,56,46711.0,135,3,5,4,12,354,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Antônio Fernandes,62,43,47141.0,103,4,4,4,12,444,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Antônio Goncalves,7,31,26879.0,72,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Antônio Melo,56,75,62924.0,196,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Antônio Oliveira,2,34,28923.0,82,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Arthur Araujo,78,43,40205.0,108,4,4,3,11,443,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Arthur Castro,105,37,38308.0,94,5,3,3,11,533,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Arthur Cavalcanti,71,42,37706.0,95,4,4,3,11,443,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Arthur Costa,80,32,33973.0,83,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Arthur Cunha,5,37,31294.0,94,1,3,2,6,132,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Arthur Dias,15,38,51620.0,108,2,3,4,9,234,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Arthur Fernandes,9,42,40557.0,110,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Arthur Goncalves,25,33,23913.0,83,2,2,1,5,221,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Arthur Lima,1,58,66991.0,149,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Arthur Martins,46,47,53590.0,127,3,5,4,12,354,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Arthur Pinto,13,36,28327.0,82,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Arthur Rodrigues,112,35,30005.0,73,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Arthur Santos,51,34,33248.0,85,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Beatrice Almeida,54,44,26794.0,97,4,4,2,10,442,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Beatrice Alves,39,41,35171.0,105,3,4,3,10,343,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Beatrice Araujo,6,38,31013.0,110,1,3,2,6,132,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Beatrice Barbosa,80,37,38064.0,104,4,3,3,10,433,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Beatrice Cavalcanti,103,22,24402.0,50,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Beatrice Costa,20,35,37380.0,83,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Beatrice Dias,5,48,38176.0,117,1,5,3,9,153,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Beatrice Martins,19,41,57067.0,109,2,4,5,11,245,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Beatrice Pereira,35,34,29779.0,99,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Beatrice Sousa,340,24,21242.0,49,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Beatriz Carvalho,203,29,30383.0,63,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Beatriz Castro,142,39,54484.0,106,5,3,4,12,534,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Beatriz Cavalcanti,68,24,22284.0,50,4,1,1,6,411,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Beatriz Correia,4,55,41860.0,143,1,5,3,9,153,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Beatriz Fernandes,132,21,23276.0,58,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Beatriz Lima,46,99,93310.0,271,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Beatriz Rocha,24,47,47031.0,112,2,5,4,11,254,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Beatriz Sousa,14,44,46266.0,120,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Beatriz Souza,41,70,78105.0,182,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Bianca Almeida,93,54,51724.0,134,4,5,4,13,454,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Bianca Araujo,36,42,42210.0,119,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Bianca Azevedo,73,37,42473.0,104,4,3,4,11,434,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Bianca Correia,31,39,35907.0,96,2,3,3,8,233,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Bianca Cunha,85,32,42733.0,73,4,2,4,10,424,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Bianca Ribeiro,45,40,38179.0,99,3,4,3,10,343,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Bianca Rocha,8,66,59281.0,164,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Brenda Alves,6,18,25073.0,37,1,1,2,4,112,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Brenda Castro,164,20,26387.0,45,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Brenda Dias,4,35,22901.0,72,1,2,1,4,121,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Brenda Oliveira,133,33,34628.0,93,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Breno Correia,5,35,43637.0,99,1,2,4,7,124,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Breno Gomes,36,35,38074.0,68,3,2,3,8,323,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Breno Goncalves,107,26,24747.0,57,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Breno Oliveira,104,25,23259.0,61,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Breno Ribeiro,13,41,45152.0,98,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Bruna Barbosa,260,37,38280.0,108,5,3,3,11,533,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Bruna Barros,15,38,41227.0,86,2,3,3,8,233,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Bruna Castro,47,36,31027.0,112,3,3,2,8,332,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Bruna Cavalcanti,194,43,60171.0,92,5,4,5,14,545,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Bruna Goncalves,105,26,37479.0,74,5,1,3,9,513,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Bruna Melo,19,48,36858.0,120,2,5,3,10,253,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Bruna Ribeiro,117,46,34863.0,126,5,4,2,11,542,Alto Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Bruna Rocha,12,34,39664.0,92,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Bruna Santos,67,45,29156.0,116,4,4,2,10,442,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Bruno Almeida,42,49,37775.0,120,3,5,3,11,353,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Bruno Barros,2,49,28541.0,134,1,5,2,8,152,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Bruno Correia,102,42,33612.0,114,5,4,2,11,542,Alto Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Bruno Costa,4,35,38600.0,89,1,2,3,6,123,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Bruno Dias,23,38,39978.0,84,2,3,3,8,233,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Bruno Melo,234,37,43407.0,89,5,3,4,12,534,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Bruno Rodrigues,13,42,37102.0,111,2,4,3,9,243,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Bruno Silva,41,32,38694.0,84,3,2,3,8,323,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Bruno Sousa,11,23,28532.0,46,1,1,2,4,112,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Caio Almeida,82,48,41079.0,122,4,5,3,12,453,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Caio Barbosa,86,43,43503.0,103,4,4,4,12,444,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Caio Correia,4,57,50538.0,145,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Caio Dias,160,44,44581.0,106,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Caio Ferreira,14,29,31824.0,64,2,1,2,5,212,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Caio Gomes,51,34,26977.0,84,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Caio Lima,14,36,35280.0,83,2,3,3,8,233,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Caio Pereira,65,37,37845.0,79,4,3,3,10,433,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Caio Rocha,3,30,34476.0,84,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Caio Sousa,7,32,42636.0,71,1,2,4,7,124,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Camila Carvalho,5,64,57929.0,156,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Camila Cunha,26,41,39149.0,91,2,4,3,9,243,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Camila Martins,135,32,40298.0,87,5,2,3,10,523,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Camila Ribeiro,101,29,29984.0,65,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Camila Rodrigues,27,52,56461.0,127,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Camila Santos,20,56,61463.0,142,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Carla Dias,21,41,49621.0,107,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Carla Pereira,107,26,27001.0,71,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Carla Silva,48,41,37400.0,106,3,4,3,10,343,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Carlos Azevedo,63,47,50634.0,117,4,5,4,13,454,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Carlos Barros,117,36,29731.0,96,5,3,2,10,532,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Carlos Cunha,2,63,75937.0,160,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Carlos Ferreira,112,35,43956.0,82,5,2,4,11,524,Alto Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Carlos Gomes,86,38,46011.0,110,4,3,4,11,434,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Carlos Martins,24,37,30042.0,83,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Carlos Pereira,233,35,31301.0,83,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Carlos Pinto,10,33,21239.0,73,1,2,1,4,121,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Carlos Rocha,7,57,67148.0,152,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Carlos Rodrigues,35,44,37703.0,104,3,4,3,10,343,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Carolina Cardoso,14,73,77912.0,196,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Carolina Goncalves,21,42,40059.0,112,2,4,3,9,243,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Carolina Ribeiro,31,49,50210.0,125,2,5,4,11,254,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Carolina Rodrigues,188,47,42404.0,115,5,5,4,14,554,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Cauã Araujo,179,41,41507.0,106,5,4,3,12,543,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Cauã Azevedo,115,23,28654.0,61,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Cauã Carvalho,12,67,69211.0,165,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Cauã Fernandes,16,104,99666.0,268,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Cauã Melo,53,48,44634.0,128,4,5,4,13,454,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Cauã Pereira,7,71,85439.0,178,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Cauã Ribeiro,11,31,30656.0,82,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Cauã Sousa,63,30,32993.0,72,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Clara Almeida,168,36,24245.0,98,5,3,1,9,531,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Clara Cardoso,241,27,28097.0,63,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Clara Carvalho,173,21,16927.0,60,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Clara Cavalcanti,10,39,48758.0,84,1,3,4,8,134,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Clara Correia,22,30,26851.0,75,2,2,2,6,222,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Clara Cunha,33,50,59327.0,136,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Clara Ferreira,50,47,38745.0,116,3,5,3,11,353,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Clara Pereira,74,51,60680.0,126,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Clara Souza,9,32,40542.0,80,1,2,3,6,123,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Daniel Barros,17,25,26019.0,57,2,1,2,5,212,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Daniel Cardoso,22,61,55281.0,166,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Daniel Carvalho,12,32,31951.0,76,2,2,2,6,222,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Daniel Cavalcanti,5,35,26836.0,87,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Daniel Correia,16,43,43015.0,112,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Daniel Fernandes,133,26,27964.0,60,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Daniel Lima,1,34,34946.0,92,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Daniel Santos,116,39,44764.0,101,5,3,4,12,534,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Danilo Alves,218,40,51863.0,97,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Danilo Araujo,8,23,11516.0,55,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Danilo Castro,101,39,45273.0,93,5,3,4,12,534,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Danilo Ferreira,50,35,26121.0,85,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Danilo Martins,17,52,48994.0,138,2,5,4,11,254,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Danilo Pereira,246,33,35384.0,72,5,2,3,10,523,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Danilo Pinto,25,38,47309.0,112,2,3,4,9,234,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Danilo Santos,5,28,28673.0,59,1,1,2,4,112,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Danilo Sousa,35,47,43554.0,111,3,5,4,12,354,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Danilo Souza,5,26,31015.0,56,1,1,2,4,112,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Davi Cavalcanti,50,76,64672.0,182,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Davi Pereira,86,56,56280.0,130,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Davi Pinto,200,18,14203.0,48,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Diego Araujo,5,31,36217.0,76,1,2,3,6,123,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Diego Barros,142,35,32266.0,87,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Diego Carvalho,44,44,42825.0,128,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Diego Correia,5,18,12949.0,40,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Diego Gomes,8,35,40287.0,88,1,2,3,6,123,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Diego Pinto,73,33,36300.0,85,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Diego Ribeiro,31,21,20630.0,44,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Diego Rocha,6,28,32401.0,72,1,1,2,4,112,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Diego Souza,80,26,26221.0,62,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Diogo Cardoso,41,56,52866.0,155,3,5,4,12,354,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Diogo Castro,8,41,35533.0,99,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Diogo Fernandes,223,35,38977.0,80,5,2,3,10,523,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Diogo Gomes,114,45,32936.0,107,5,4,2,11,542,Alto Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Diogo Lima,76,32,45279.0,90,4,2,4,10,424,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Diogo Martins,49,38,41774.0,89,3,3,3,9,333,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Diogo Pereira,38,36,37880.0,92,3,3,3,9,333,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Douglas Barros,93,42,45426.0,109,4,4,4,12,444,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Douglas Cavalcanti,76,38,35184.0,83,4,3,3,10,433,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Douglas Lima,1,30,25238.0,75,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Douglas Pinto,168,24,28330.0,45,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Douglas Rocha,17,39,31913.0,103,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Eduarda Barros,37,35,47462.0,95,3,2,4,9,324,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Eduarda Cavalcanti,146,42,38967.0,105,5,4,3,12,543,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Eduarda Dias,41,45,44743.0,112,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Eduarda Ferreira,81,35,42371.0,96,4,2,4,10,424,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Eduarda Goncalves,6,49,42627.0,124,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Eduarda Melo,76,46,44080.0,132,4,4,4,12,444,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Eduarda Oliveira,44,38,46790.0,95,3,3,4,10,334,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Eduardo Barbosa,136,21,19669.0,51,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Eduardo Barros,46,27,23011.0,55,3,1,1,5,311,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Eduardo Carvalho,118,70,65820.0,180,5,5,5,15,555,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Eduardo Correia,68,39,43273.0,94,4,3,4,11,434,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Eduardo Cunha,11,41,36988.0,120,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Eduardo Fernandes,66,36,46817.0,72,4,3,4,11,434,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Eduardo Ferreira,42,31,32822.0,75,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Eduardo Pereira,17,57,61742.0,133,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Eduardo Rocha,110,36,40330.0,98,5,3,3,11,533,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Eduardo Rodrigues,38,66,67114.0,178,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Eduardo Santos,55,28,39597.0,64,4,1,3,8,413,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Eduardo Sousa,68,33,32566.0,75,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Emilly Barbosa,4,43,34647.0,109,1,4,2,7,142,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Emilly Carvalho,102,34,37006.0,83,5,2,3,10,523,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Emilly Castro,1,55,36072.0,143,1,5,3,9,153,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Emilly Costa,1,40,44487.0,94,1,4,4,9,144,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Emilly Fernandes,202,36,31833.0,97,5,3,2,10,532,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Emilly Rodrigues,27,42,45830.0,116,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Emilly Santos,17,32,20975.0,87,2,2,1,5,221,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Emilly Sousa,11,35,32392.0,87,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Emilly Souza,16,32,20971.0,86,2,2,1,5,221,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Emily Cardoso,2,40,41351.0,120,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Emily Cunha,247,26,32548.0,67,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Emily Fernandes,25,35,39811.0,73,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Emily Ferreira,31,25,24418.0,65,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Emily Goncalves,9,37,28679.0,103,1,3,2,6,132,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Emily Lima,76,65,85430.0,182,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Emily Rodrigues,39,48,57561.0,113,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Enzo Alves,43,30,26406.0,71,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Enzo Carvalho,11,39,37868.0,94,1,3,3,7,133,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Enzo Cavalcanti,133,32,27981.0,84,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Enzo Dias,26,42,61725.0,99,2,4,5,11,245,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Enzo Lima,7,42,33866.0,98,1,4,2,7,142,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Enzo Oliveira,19,41,31403.0,104,2,4,2,8,242,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Enzo Santos,26,20,17075.0,44,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Erick Costa,208,34,35851.0,93,5,2,3,10,523,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Erick Ferreira,176,44,45918.0,103,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Erick Gomes,65,28,31213.0,64,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Erick Rodrigues,84,16,8518.0,41,4,1,1,6,411,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Estevan Araujo,78,38,36948.0,98,4,3,3,10,433,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Estevan Barbosa,81,36,36769.0,86,4,3,3,10,433,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Estevan Cardoso,53,38,22766.0,106,4,3,1,8,431,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Estevan Carvalho,72,42,26797.0,110,4,4,2,10,442,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Estevan Castro,4,29,24745.0,60,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Estevan Fernandes,13,34,32837.0,93,2,2,2,6,222,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Estevan Lima,26,35,39132.0,90,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Estevan Martins,143,30,36134.0,82,5,2,3,10,523,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Estevan Ribeiro,4,37,41448.0,85,1,3,3,7,133,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Evelyn Almeida,12,27,18139.0,69,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Evelyn Barros,10,42,35863.0,113,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Evelyn Carvalho,156,36,34099.0,88,5,3,2,10,532,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Evelyn Fernandes,324,36,27744.0,99,5,3,2,10,532,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Evelyn Ribeiro,49,45,35213.0,128,3,4,3,10,343,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Evelyn Souza,56,92,100247.0,253,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Felipe Araujo,22,38,35160.0,90,2,3,3,8,233,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Felipe Barbosa,17,51,57570.0,151,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Felipe Carvalho,113,41,47958.0,104,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Felipe Costa,53,37,31167.0,98,4,3,2,9,432,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Felipe Gomes,101,25,29556.0,65,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Felipe Goncalves,85,32,37524.0,74,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Felipe Martins,36,46,47089.0,130,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Felipe Oliveira,81,30,15897.0,70,4,2,1,7,421,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Felipe Pereira,39,33,20839.0,88,3,2,1,6,321,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Felipe Silva,68,35,32668.0,99,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Fernanda Araujo,52,81,99677.0,218,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Fernanda Cunha,5,78,78895.0,179,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Fernanda Gomes,57,40,39532.0,102,4,4,3,11,443,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Fernanda Lima,33,26,28660.0,65,3,1,2,6,312,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Fernanda Oliveira,108,20,21582.0,48,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Fernanda Pinto,21,50,36224.0,128,2,5,3,10,253,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Fernanda Rocha,174,39,31935.0,101,5,3,2,10,532,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Fábio Barbosa,40,35,39101.0,85,3,2,3,8,323,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Fábio Cavalcanti,159,35,28875.0,98,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Fábio Correia,25,36,31955.0,86,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Fábio Fernandes,50,46,50797.0,113,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Fábio Ferreira,42,46,56479.0,121,3,4,5,12,345,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Fábio Martins,123,34,38576.0,89,5,2,3,10,523,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Fábio Pereira,37,54,38114.0,148,3,5,3,11,353,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Fábio Pinto,11,39,39966.0,94,1,3,3,7,133,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Gabriel Almeida,18,35,31999.0,111,2,2,2,6,222,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Gabriel Carvalho,33,31,35270.0,67,3,2,3,8,323,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Gabriel Castro,105,43,53614.0,103,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Gabriel Fernandes,44,47,55171.0,125,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Gabriel Gomes,7,34,35675.0,77,1,2,3,6,123,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Gabriel Rodrigues,94,28,21829.0,76,4,1,1,6,411,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Gabriel Souza,53,33,34199.0,85,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Gabriela Costa,20,29,40419.0,65,2,1,3,6,213,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Gabriela Cunha,65,40,37867.0,94,4,4,3,11,443,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Gabriela Pinto,5,27,26793.0,67,1,1,2,4,112,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Gabriela Rocha,160,41,43284.0,96,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Gabriela Rodrigues,110,41,44883.0,104,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Gabrielle Almeida,40,39,38756.0,98,3,3,3,9,333,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Gabrielle Castro,142,32,31898.0,96,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Gabrielle Cavalcanti,312,20,20550.0,47,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Gabrielle Correia,14,44,34072.0,149,2,4,2,8,242,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Gabrielle Fernandes,86,33,36280.0,86,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Gabrielly Martins,10,46,47515.0,123,1,4,4,9,144,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Giovana Cardoso,16,42,43093.0,115,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Giovana Gomes,2,33,26306.0,78,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Giovana Silva,23,31,28413.0,63,2,2,2,6,222,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Giovana Sousa,280,29,32627.0,81,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Giovanna Azevedo,164,38,32135.0,93,5,3,2,10,532,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Giovanna Correia,17,25,15089.0,63,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Giovanna Oliveira,84,31,32444.0,77,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Giovanna Rocha,12,51,50413.0,116,2,5,4,11,254,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Guilherme Almeida,8,33,29817.0,76,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Guilherme Costa,77,31,34539.0,78,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Guilherme Fernandes,52,40,30570.0,103,3,4,2,9,342,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Guilherme Lima,39,28,26540.0,72,3,1,2,6,312,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Guilherme Martins,7,39,36833.0,109,1,3,3,7,133,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Guilherme Oliveira,41,35,27732.0,86,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Guilherme Ribeiro,158,38,43210.0,94,5,3,4,12,534,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Gustavo Barbosa,282,36,36333.0,101,5,3,3,11,533,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Gustavo Cardoso,12,50,43057.0,148,2,5,4,11,254,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Gustavo Castro,42,28,23790.0,82,3,1,1,5,311,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Gustavo Correia,62,36,42207.0,90,4,3,4,11,434,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Gustavo Goncalves,3,90,94543.0,234,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Gustavo Silva,101,45,40061.0,105,5,4,3,12,543,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Igor Castro,20,91,79648.0,249,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Igor Costa,36,49,39320.0,127,3,5,3,11,353,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Igor Fernandes,42,41,31141.0,97,3,4,2,9,342,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Igor Gomes,235,22,20497.0,58,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Igor Martins,50,28,26666.0,64,3,1,2,6,312,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Igor Oliveira,82,57,51528.0,150,4,5,4,13,454,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Igor Ribeiro,2,33,35791.0,78,1,2,3,6,123,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Igor Silva,34,27,39313.0,66,3,1,3,7,313,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Igor Sousa,46,38,37114.0,105,3,3,3,9,333,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Isabela Azevedo,12,87,97842.0,197,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Isabela Correia,33,36,32759.0,74,3,3,2,8,332,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Isabela Costa,66,40,41751.0,99,4,4,3,11,443,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Isabela Goncalves,34,36,47240.0,103,3,3,4,10,334,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Isabela Lima,8,46,40430.0,128,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Isabela Souza,116,45,48101.0,124,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Isabella Almeida,154,40,40040.0,96,5,4,3,12,543,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Isabella Castro,117,36,40899.0,80,5,3,3,11,533,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Isabella Cunha,40,21,16402.0,40,3,1,1,5,311,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Isabella Ferreira,124,46,42668.0,126,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Isabella Gomes,56,32,30861.0,78,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Isabella Goncalves,63,42,50460.0,115,4,4,4,12,444,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Isabella Ribeiro,161,18,18921.0,46,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Isabella Santos,145,28,33476.0,81,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Isabella Silva,62,33,21536.0,88,4,2,1,7,421,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Isabelle Barbosa,44,35,28539.0,96,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Isabelle Castro,156,33,30764.0,82,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Isabelle Cunha,76,36,33582.0,86,4,3,2,9,432,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Isabelle Pinto,5,39,51081.0,115,1,3,4,8,134,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Isabelle Rocha,80,28,34855.0,75,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Isabelle Santos,140,34,45175.0,80,5,2,4,11,524,Alto Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Isabelle Souza,6,87,82986.0,202,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Joao Almeida,101,35,41543.0,80,5,2,3,10,523,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Joao Barbosa,101,35,28605.0,83,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Joao Barros,18,44,43263.0,117,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Joao Cavalcanti,32,32,31565.0,86,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Joao Fernandes,24,65,64665.0,183,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Joao Martins,5,33,39290.0,78,1,2,3,6,123,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Joao Ribeiro,1,51,54794.0,121,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+José Almeida,42,25,14137.0,54,3,1,1,5,311,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+José Alves,5,33,37305.0,91,1,2,3,6,123,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+José Araujo,1,74,87008.0,164,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+José Carvalho,48,47,54167.0,107,3,5,4,12,354,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+José Fernandes,69,36,39567.0,91,4,3,3,10,433,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+José Melo,14,36,33963.0,92,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+José Pereira,81,45,57683.0,102,4,4,5,13,445,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+José Ribeiro,130,31,29398.0,68,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+José Santos,84,35,28502.0,89,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+João Almeida,66,33,46095.0,85,4,2,4,10,424,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+João Pereira,40,27,32472.0,76,3,1,2,6,312,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+João Ribeiro,108,30,24283.0,67,5,2,1,8,521,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+João Silva,1,69,52362.0,185,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Julia Almeida,34,27,23206.0,69,3,1,1,5,311,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Julia Araujo,27,31,25031.0,67,2,2,2,6,222,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Julia Cavalcanti,44,36,51108.0,94,3,3,4,10,334,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Julia Costa,15,36,35987.0,78,2,3,3,8,233,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Julia Fernandes,6,35,35620.0,101,1,2,3,6,123,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Julia Goncalves,39,23,33384.0,52,3,1,2,6,312,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Julia Pereira,32,34,27937.0,78,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Julia Pinto,63,42,37791.0,102,4,4,3,11,443,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Julia Rodrigues,54,34,25199.0,90,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Julian Azevedo,26,63,58444.0,156,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Julian Carvalho,9,60,49317.0,151,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Julian Castro,40,34,39122.0,79,3,2,3,8,323,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Julian Correia,123,27,22772.0,77,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Julian Cunha,12,41,34861.0,103,2,4,2,8,242,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Julian Gomes,11,74,69278.0,166,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Julian Rodrigues,6,27,19599.0,53,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Julian Sousa,16,97,84618.0,216,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Julieta Cardoso,192,24,28748.0,54,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Julieta Martins,23,34,33301.0,78,2,2,2,6,222,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Julieta Melo,47,36,35586.0,103,3,3,3,9,333,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Julieta Rodrigues,3,42,46820.0,104,1,4,4,9,144,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Julieta Santos,113,44,44239.0,118,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Júlia Araujo,155,23,27715.0,48,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Júlia Azevedo,27,41,42437.0,107,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Júlia Costa,10,32,30088.0,88,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Júlia Fernandes,52,61,55797.0,157,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Júlia Goncalves,23,58,73820.0,142,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Júlia Lima,53,22,24743.0,39,4,1,1,6,411,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Júlia Pinto,23,40,46008.0,113,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Júlia Ribeiro,52,37,48086.0,99,3,3,4,10,334,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Júlia Santos,85,35,31150.0,91,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Júlia Sousa,74,35,27858.0,82,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Júlio Alves,73,37,47452.0,104,4,3,4,11,434,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Júlio Carvalho,8,35,36298.0,98,1,2,3,6,123,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Júlio Cunha,24,71,72084.0,185,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Júlio Ferreira,44,43,33095.0,131,3,4,2,9,342,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Júlio Lima,292,27,18017.0,76,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Júlio Melo,46,63,75732.0,160,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Júlio Pereira,40,38,33025.0,95,3,3,2,8,332,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Júlio Pinto,68,28,30281.0,67,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Kai Alves,20,35,40784.0,77,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kai Castro,99,28,31559.0,79,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Kai Correia,24,97,120450.0,238,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kai Costa,168,23,21040.0,56,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Kai Ribeiro,21,38,28901.0,88,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kai Rodrigues,112,44,38012.0,132,5,4,3,12,543,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Kai Souza,48,53,56745.0,151,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Kaua Almeida,17,30,23144.0,79,2,2,1,5,221,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kaua Cardoso,1,45,49079.0,126,1,4,4,9,144,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kaua Castro,53,50,50646.0,134,4,5,4,13,454,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Kaua Costa,146,31,36568.0,83,5,2,3,10,523,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Kaua Dias,92,34,38621.0,84,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Kaua Fernandes,24,66,77278.0,171,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kaua Ferreira,63,32,40068.0,73,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Kaua Gomes,78,42,53675.0,120,4,4,4,12,444,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Kaua Goncalves,18,53,59524.0,135,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kaua Ribeiro,37,39,51244.0,94,3,3,4,10,334,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Kaua Rocha,31,89,82670.0,227,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kaua Rodrigues,1,55,52365.0,158,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kaua Santos,111,58,56172.0,146,5,5,5,15,555,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Kaua Sousa,187,28,28925.0,69,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Kauan Alves,63,51,48282.0,146,4,5,4,13,454,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Kauan Azevedo,2,54,42675.0,128,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauan Barbosa,14,45,43650.0,130,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauan Costa,53,36,52239.0,79,4,3,4,11,434,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Kauan Sousa,2,47,39557.0,130,1,5,3,9,153,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauã Almeida,2,26,20806.0,65,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauã Alves,64,36,32263.0,90,4,3,2,9,432,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Kauã Barros,103,53,54951.0,121,5,5,4,14,554,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Kauã Cardoso,10,88,89218.0,223,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauã Carvalho,65,45,40001.0,107,4,4,3,11,443,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Kauã Castro,6,95,103836.0,229,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauã Cunha,21,62,57311.0,146,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauã Fernandes,2,115,118072.0,286,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauã Ferreira,202,35,37453.0,104,5,2,3,10,523,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Kauã Lima,17,87,82450.0,217,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauã Melo,40,29,32175.0,55,3,1,2,6,312,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Kauã Pereira,110,44,41191.0,110,5,4,3,12,543,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Kauã Pinto,155,16,11782.0,45,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Kauã Rodrigues,3,45,51142.0,105,1,4,4,9,144,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauê Barbosa,1,34,31232.0,101,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauê Carvalho,18,48,35394.0,124,2,5,3,10,253,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauê Fernandes,9,46,38522.0,114,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauê Oliveira,1,27,15772.0,72,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauê Pereira,47,42,33081.0,113,3,4,2,9,342,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Kauê Ribeiro,164,35,31019.0,92,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Kauê Santos,32,40,34608.0,102,3,4,2,9,342,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Kauê Silva,27,32,24316.0,69,2,2,1,5,221,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Kauê Souza,84,28,28725.0,59,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Lara Alves,36,35,35380.0,74,3,2,3,8,323,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Lara Goncalves,13,34,26674.0,76,2,2,2,6,222,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Lara Melo,9,60,47607.0,166,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Lara Silva,24,35,39073.0,102,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Larissa Cavalcanti,12,41,42543.0,105,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Larissa Cunha,18,27,18410.0,57,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Larissa Melo,32,40,21901.0,91,3,4,1,8,341,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Larissa Pinto,45,37,32696.0,99,3,3,2,8,332,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Larissa Rodrigues,124,36,45518.0,97,5,3,4,12,534,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Laura Azevedo,178,30,22136.0,72,5,2,1,8,521,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Laura Castro,20,83,82189.0,218,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Laura Cavalcanti,1,143,151164.0,350,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Laura Costa,135,36,50463.0,79,5,3,4,12,534,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Lavinia Azevedo,200,23,23450.0,50,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Lavinia Cavalcanti,31,42,46815.0,99,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Lavinia Costa,99,34,38144.0,84,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Lavinia Gomes,73,55,48614.0,143,4,5,4,13,454,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Lavinia Melo,67,34,41265.0,93,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Lavinia Rodrigues,2,31,23332.0,72,1,2,1,4,121,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Leila Azevedo,8,24,20723.0,51,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Leila Barbosa,82,32,35576.0,72,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Leila Carvalho,36,46,45498.0,120,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Leila Castro,51,45,51606.0,109,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Leila Goncalves,6,69,52466.0,166,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Leila Melo,54,34,32103.0,79,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Leila Rocha,100,36,32872.0,81,5,3,2,10,532,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Leila Rodrigues,15,49,52001.0,126,2,5,4,11,254,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Leila Silva,8,29,23792.0,73,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Leonardo Almeida,2,48,44518.0,128,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Leonardo Barbosa,44,44,45892.0,113,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Leonardo Ferreira,12,21,18123.0,51,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Leonardo Gomes,46,26,22099.0,67,3,1,1,5,311,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Leonardo Goncalves,49,39,33909.0,90,3,3,2,8,332,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Leonardo Martins,12,43,39278.0,104,2,4,3,9,243,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Leonardo Oliveira,253,25,30897.0,50,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Leonardo Pinto,23,38,35229.0,83,2,3,3,8,233,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Leonardo Rodrigues,75,37,28527.0,86,4,3,2,9,432,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Leonardo Sousa,156,29,29834.0,68,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Leonardo Souza,114,28,27340.0,81,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Leonor Alves,13,36,32668.0,96,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Leonor Cunha,69,35,40170.0,85,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Leonor Santos,95,39,33390.0,106,4,3,2,9,432,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Letícia Barbosa,33,34,42523.0,82,3,2,4,9,324,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Letícia Correia,33,56,51164.0,130,3,5,4,12,354,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Letícia Souza,98,29,28157.0,68,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Livia Almeida,6,85,79969.0,220,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Livia Pereira,46,34,21345.0,76,3,2,1,6,321,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Livia Pinto,40,50,58233.0,137,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Livia Rocha,53,40,27217.0,114,4,4,2,10,442,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Livia Santos,154,34,31846.0,102,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luan Araujo,8,34,34058.0,83,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luan Costa,64,50,44014.0,128,4,5,4,13,454,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Luan Melo,55,34,30167.0,70,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luan Oliveira,2,74,83846.0,160,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luan Ribeiro,23,26,19121.0,62,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luan Rocha,6,35,53463.0,87,1,2,4,7,124,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luan Rodrigues,41,23,19682.0,62,3,1,1,5,311,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luan Santos,1,35,26611.0,86,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luana Azevedo,27,35,36612.0,95,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luana Goncalves,8,38,41650.0,88,1,3,3,7,133,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luana Martins,47,40,38342.0,88,3,4,3,10,343,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Luana Oliveira,102,33,44243.0,72,5,2,4,11,524,Alto Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Luana Sousa,6,54,42827.0,118,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Lucas Almeida,62,71,76188.0,199,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Lucas Correia,81,30,36023.0,76,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Lucas Gomes,35,38,28348.0,93,3,3,2,8,332,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Lucas Martins,76,29,19293.0,72,4,1,1,6,411,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Lucas Melo,22,37,39136.0,81,2,3,3,8,233,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Lucas Pereira,4,37,28412.0,97,1,3,2,6,132,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Lucas Pinto,9,26,27759.0,63,1,1,2,4,112,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Lucas Rodrigues,191,39,27758.0,104,5,3,2,10,532,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Lucas Souza,15,34,34750.0,88,2,2,2,6,222,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luis Araujo,27,81,83034.0,205,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luis Carvalho,74,35,32743.0,115,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luis Castro,324,34,45305.0,84,5,2,4,11,524,Alto Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Luis Dias,21,61,46807.0,139,2,5,4,11,254,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luis Pereira,55,35,35359.0,99,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Luis Pinto,71,37,32262.0,91,4,3,2,9,432,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luis Ribeiro,112,16,12618.0,39,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luiz Almeida,41,47,44982.0,106,3,5,4,12,354,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Luiz Costa,11,102,86599.0,255,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luiz Cunha,27,26,30863.0,69,2,1,2,5,212,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luiz Dias,42,49,48434.0,117,3,5,4,12,354,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Luiz Fernandes,1,45,39961.0,119,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luiz Ferreira,37,40,37427.0,95,3,4,3,10,343,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Luiz Martins,105,25,14611.0,65,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luiz Santos,18,37,33161.0,76,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luiz Sousa,68,65,57485.0,153,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Luiz Souza,171,21,16848.0,46,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luiza Alves,15,35,43766.0,86,2,2,4,8,224,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luiza Barros,3,41,49350.0,92,1,4,4,9,144,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luiza Dias,12,37,43384.0,108,2,3,4,9,234,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luiza Martins,81,32,25159.0,84,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luiza Melo,4,66,60726.0,163,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luiza Oliveira,15,33,27912.0,65,2,2,2,6,222,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luiza Pinto,118,25,26945.0,67,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luiza Rocha,33,43,37007.0,115,3,4,3,10,343,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Luís Araujo,13,46,60693.0,127,2,4,5,11,245,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luís Barros,48,29,34286.0,61,3,1,2,6,312,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luís Cardoso,37,33,31064.0,93,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luís Correia,193,35,29985.0,92,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luís Costa,147,37,40113.0,95,5,3,3,11,533,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Luís Martins,34,42,54297.0,109,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Luís Pinto,53,35,31404.0,88,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luís Ribeiro,18,69,66445.0,167,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Luís Santos,39,59,54215.0,154,3,5,4,12,354,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Luís Silva,34,33,32817.0,71,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Luís Souza,1,43,60322.0,117,1,4,5,10,145,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Manuela Carvalho,37,21,20679.0,54,3,1,1,5,311,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Manuela Costa,79,30,28465.0,67,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Manuela Fernandes,64,44,41686.0,115,4,4,3,11,443,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Manuela Goncalves,55,33,21825.0,92,4,2,1,7,421,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Manuela Melo,11,39,41288.0,103,1,3,3,7,133,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Marcos Castro,8,33,27707.0,76,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Marcos Cavalcanti,2,32,47507.0,72,1,2,4,7,124,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Marcos Dias,11,35,35162.0,83,1,2,3,6,123,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Marcos Fernandes,83,29,25994.0,73,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Marcos Pinto,67,28,31878.0,65,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Marcos Souza,41,33,30976.0,75,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Maria Almeida,54,44,46170.0,125,4,4,4,12,444,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Maria Castro,17,35,30244.0,82,2,2,2,6,222,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Maria Lima,23,35,35346.0,77,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Maria Oliveira,157,26,33455.0,69,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Maria Rocha,31,29,29131.0,70,2,1,2,5,212,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Maria Silva,127,36,27381.0,89,5,3,2,10,532,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Maria Sousa,33,79,87957.0,211,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Mariana Almeida,22,45,31805.0,129,2,4,2,8,242,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Mariana Cavalcanti,178,40,42790.0,98,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Mariana Dias,57,39,38993.0,99,4,3,3,10,433,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Marina Barbosa,6,44,32846.0,110,1,4,2,7,142,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Marina Barros,5,43,45425.0,103,1,4,4,9,144,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Marina Cunha,35,22,15067.0,48,3,1,1,5,311,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Marina Dias,22,53,54482.0,131,2,5,4,11,254,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Marina Goncalves,2,45,38595.0,94,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Marina Oliveira,1,43,39620.0,104,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Marina Pereira,31,75,68589.0,195,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Marina Pinto,4,28,30574.0,61,1,1,2,4,112,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Marisa Barbosa,10,42,31822.0,91,1,4,2,7,142,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Marisa Correia,72,26,22318.0,66,4,1,1,6,411,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Marisa Costa,5,34,50151.0,75,1,2,4,7,124,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Marisa Gomes,68,35,37643.0,79,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Marisa Melo,20,40,30249.0,99,2,4,2,8,242,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Marisa Oliveira,1,75,99124.0,198,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Martim Almeida,38,34,26060.0,90,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Martim Barbosa,52,79,86287.0,206,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Martim Barros,2,92,99271.0,224,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Martim Cardoso,102,26,38226.0,67,5,1,3,9,513,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Martim Castro,6,28,18463.0,63,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Martim Correia,49,78,67724.0,190,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Martim Cunha,53,16,6848.0,36,4,1,1,6,411,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Martim Oliveira,50,55,58515.0,152,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Martim Pereira,39,31,39022.0,83,3,2,3,8,323,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Mateus Araujo,48,34,34304.0,91,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Mateus Barbosa,142,20,25459.0,40,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Mateus Cardoso,48,37,29868.0,88,3,3,2,8,332,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Mateus Fernandes,117,36,30516.0,93,5,3,2,10,532,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Mateus Martins,8,37,21140.0,78,1,3,1,5,131,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Mateus Pereira,57,39,39498.0,99,4,3,3,10,433,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Mateus Ribeiro,132,44,36176.0,98,5,4,3,12,543,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Matheus Barros,10,54,48096.0,136,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Matheus Ferreira,12,45,35924.0,111,2,4,3,9,243,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Matheus Melo,52,39,42962.0,106,3,3,4,10,334,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Matheus Rodrigues,20,26,24340.0,61,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Matheus Silva,31,33,45254.0,88,2,2,4,8,224,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Matilde Alves,49,41,46913.0,117,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Matilde Barbosa,125,45,37402.0,115,5,4,3,12,543,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Matilde Cavalcanti,6,40,37621.0,110,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Matilde Rodrigues,108,41,41688.0,102,5,4,3,12,543,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Melissa Almeida,37,67,47951.0,166,3,5,4,12,354,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Melissa Azevedo,12,48,39668.0,130,2,5,3,10,253,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Melissa Dias,45,17,11901.0,37,3,1,1,5,311,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Melissa Silva,23,30,33258.0,66,2,2,2,6,222,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Miguel Almeida,25,37,26778.0,91,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Miguel Azevedo,110,24,28746.0,56,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Miguel Barros,56,26,11960.0,58,4,1,1,6,411,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Miguel Cardoso,40,43,41463.0,105,3,4,3,10,343,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Miguel Correia,36,41,43429.0,97,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Miguel Ferreira,42,36,32098.0,86,3,3,2,8,332,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Miguel Pinto,24,33,40623.0,83,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Miguel Ribeiro,10,81,74077.0,209,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Miguel Silva,12,37,36198.0,97,2,3,3,8,233,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Miguel Sousa,52,32,23499.0,77,3,2,1,6,321,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Murilo Carvalho,10,40,29281.0,98,1,4,2,7,142,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Murilo Cavalcanti,216,36,38241.0,83,5,3,3,11,533,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Murilo Dias,7,43,52097.0,97,1,4,4,9,144,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Murilo Oliveira,82,29,32860.0,81,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Murilo Silva,138,24,13481.0,66,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Murilo Sousa,8,32,27425.0,85,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Murilo Souza,16,24,29534.0,69,2,1,2,5,212,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Nicolas Alves,83,33,27514.0,92,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Nicolas Azevedo,131,33,27826.0,80,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Nicolas Barros,38,34,34828.0,93,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Nicolas Castro,309,22,23451.0,43,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Nicolas Correia,7,30,16354.0,67,1,2,1,4,121,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Nicolas Cunha,52,15,17491.0,40,3,1,1,5,311,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Nicolas Melo,1,51,53076.0,120,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Nicolas Oliveira,141,40,47244.0,102,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Nicolash Cavalcanti,20,52,60737.0,122,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Nicolash Cunha,26,24,22923.0,66,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Nicolash Ferreira,38,78,68073.0,199,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Nicolash Goncalves,38,77,82927.0,199,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Nicolash Melo,49,31,44278.0,80,3,2,4,9,324,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Nicolash Ribeiro,93,37,31621.0,99,4,3,2,9,432,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Nicolash Silva,47,39,34977.0,91,3,3,2,8,332,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Nicole Almeida,84,40,53249.0,111,4,4,4,12,444,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Nicole Alves,84,35,39216.0,74,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Nicole Castro,11,41,38967.0,120,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Nicole Correia,117,24,25626.0,55,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Nicole Goncalves,16,21,17089.0,48,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Nicole Martins,17,32,41309.0,84,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Nicole Oliveira,6,31,20747.0,81,1,2,1,4,121,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Nicole Ribeiro,103,25,19849.0,64,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Nicole Rodrigues,26,30,32715.0,78,2,2,2,6,222,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Otávio Almeida,305,29,25010.0,69,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Otávio Goncalves,34,42,34118.0,109,3,4,2,9,342,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Otávio Pereira,16,46,43877.0,114,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Otávio Rodrigues,62,50,42041.0,126,4,5,4,13,454,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Paulo Carvalho,76,25,31659.0,63,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Paulo Castro,22,38,41895.0,88,2,3,3,8,233,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Paulo Cavalcanti,5,23,21281.0,74,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Paulo Dias,5,84,107370.0,206,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Paulo Ferreira,146,28,18420.0,62,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Paulo Goncalves,5,44,41583.0,109,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Paulo Martins,124,21,15737.0,49,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Pedro Alves,24,38,32325.0,103,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Pedro Azevedo,20,53,56329.0,132,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Pedro Barros,44,40,41251.0,103,3,4,3,10,343,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Pedro Costa,5,32,25920.0,73,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Pedro Ferreira,14,37,34779.0,71,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Pedro Melo,25,44,43579.0,111,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Pedro Pinto,4,44,36096.0,118,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Pedro Rocha,17,36,30546.0,111,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Rafael Almeida,38,46,47132.0,118,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Rafael Barbosa,17,42,44672.0,92,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Rafael Fernandes,50,43,43227.0,108,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Rafael Melo,188,22,31578.0,55,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Rafael Oliveira,32,40,26659.0,116,3,4,2,9,342,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Rafael Rodrigues,38,37,38544.0,83,3,3,3,9,333,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Rafael Silva,109,32,42727.0,65,5,2,4,11,524,Alto Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Rafael Sousa,375,26,19799.0,53,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Rafaela Azevedo,42,24,25774.0,52,3,1,2,6,312,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Rafaela Ferreira,31,44,51635.0,108,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Rafaela Gomes,115,34,39435.0,88,5,2,3,10,523,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Rafaela Oliveira,42,22,31940.0,62,3,1,2,6,312,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Rafaela Silva,3,69,81674.0,177,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Raissa Almeida,13,27,16013.0,77,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Raissa Alves,18,27,29205.0,64,2,1,2,5,212,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Raissa Costa,42,41,39304.0,128,3,4,3,10,343,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Raissa Cunha,35,34,24829.0,85,3,2,1,6,321,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Raissa Dias,94,40,40415.0,100,4,4,3,11,443,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Raissa Pinto,66,31,30327.0,88,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Raissa Sousa,78,34,30558.0,74,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Rebeca Araujo,126,37,39199.0,93,5,3,3,11,533,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Rebeca Cardoso,62,30,33857.0,66,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Rebeca Carvalho,11,50,44525.0,132,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Rebeca Dias,76,31,37071.0,74,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Rebeca Ferreira,43,84,79448.0,204,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Rebeca Santos,18,28,27082.0,60,2,1,2,5,212,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Renan Barros,191,30,31359.0,65,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Renan Carvalho,156,41,32599.0,107,5,4,2,11,542,Alto Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Renan Costa,25,59,51131.0,158,2,5,4,11,254,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Renan Dias,25,41,48233.0,88,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Renan Gomes,125,29,29678.0,72,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Renan Goncalves,53,43,50146.0,108,4,4,4,12,444,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Renan Martins,15,20,29567.0,41,2,1,2,5,212,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Renan Oliveira,22,29,31884.0,75,2,1,2,5,212,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Renan Ribeiro,22,29,24465.0,72,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Renan Rocha,102,25,23438.0,65,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Renan Rodrigues,75,24,26835.0,60,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Renan Sousa,98,37,33846.0,89,4,3,2,9,432,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Rodrigo Barbosa,72,32,23300.0,76,4,2,1,7,421,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Rodrigo Barros,14,36,24351.0,79,2,3,1,6,231,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Rodrigo Cardoso,80,46,39364.0,114,4,4,3,11,443,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Rodrigo Castro,2,74,62933.0,187,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Rodrigo Cavalcanti,87,26,19306.0,70,4,1,1,6,411,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Rodrigo Costa,9,65,65685.0,161,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Rodrigo Ferreira,43,57,52946.0,136,3,5,4,12,354,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Rodrigo Melo,4,52,54949.0,135,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Rodrigo Pereira,12,40,40138.0,92,2,4,3,9,243,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Rodrigo Santos,127,18,15907.0,44,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Rodrigo Sousa,140,32,36617.0,87,5,2,3,10,523,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Ryan Alves,39,29,30226.0,72,3,1,2,6,312,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Ryan Barros,39,36,35417.0,105,3,3,3,9,333,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Ryan Cardoso,72,53,55597.0,148,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Ryan Cunha,4,27,26517.0,62,1,1,2,4,112,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Ryan Ferreira,70,29,30339.0,79,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Ryan Gomes,18,49,43519.0,131,2,5,4,11,254,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Ryan Melo,65,29,25777.0,67,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Ryan Oliveira,112,37,37256.0,79,5,3,3,11,533,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Ryan Souza,5,32,21597.0,78,1,2,1,4,121,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Samuel Araujo,139,37,46938.0,93,5,3,4,12,534,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Samuel Azevedo,23,104,93727.0,251,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Samuel Barbosa,75,35,46555.0,84,4,2,4,10,424,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Samuel Castro,7,34,42837.0,93,1,2,4,7,124,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Samuel Correia,209,41,49622.0,82,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Samuel Dias,82,33,34429.0,88,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Samuel Gomes,19,39,38165.0,93,2,3,3,8,233,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Samuel Lima,6,60,59830.0,142,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Samuel Pinto,105,30,36769.0,73,5,2,3,10,523,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Samuel Ribeiro,7,77,82072.0,173,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Samuel Rodrigues,99,29,38871.0,65,4,1,3,8,413,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Sarah Almeida,37,34,31128.0,82,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Sarah Alves,18,68,66562.0,168,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Sarah Ferreira,85,44,63068.0,108,4,4,5,13,445,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Sofia Araujo,7,45,50949.0,121,1,4,4,9,144,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Sofia Azevedo,3,74,80430.0,179,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Sofia Castro,15,36,34065.0,101,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Sofia Cavalcanti,17,44,43419.0,120,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Sofia Dias,76,24,15205.0,63,4,1,1,6,411,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Sofia Fernandes,53,39,39235.0,105,4,3,3,10,433,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Sofia Melo,67,37,31241.0,91,4,3,2,9,432,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Sofia Oliveira,27,28,26861.0,71,2,1,2,5,212,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Sofia Rocha,5,34,23596.0,109,1,2,1,4,121,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Sophia Almeida,31,44,51041.0,117,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Sophia Alves,93,44,43586.0,125,4,4,4,12,444,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Sophia Azevedo,109,39,35213.0,91,5,3,3,11,533,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Sophia Correia,1,25,35386.0,62,1,1,3,5,113,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Sophia Cunha,50,39,37147.0,101,3,3,3,9,333,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Sophia Goncalves,21,41,39500.0,100,2,4,3,9,243,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Sophia Martins,45,45,50517.0,99,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Sophia Sousa,1,42,42962.0,101,1,4,4,9,144,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Thaís Almeida,1,45,40351.0,121,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Thaís Azevedo,75,43,30581.0,112,4,4,2,10,442,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Thaís Barbosa,16,40,38488.0,99,2,4,3,9,243,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Thaís Barros,36,24,22184.0,54,3,1,1,5,311,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Thaís Fernandes,49,25,21298.0,67,3,1,1,5,311,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Thaís Goncalves,2,30,22005.0,70,1,2,1,4,121,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Thaís Oliveira,42,37,37714.0,100,3,3,3,9,333,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Thaís Pereira,16,28,23555.0,62,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Thaís Santos,4,39,43991.0,97,1,3,4,8,134,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Thiago Alves,191,29,35663.0,72,5,1,3,9,513,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Thiago Castro,33,32,41980.0,69,3,2,3,8,323,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Thiago Cavalcanti,44,42,47953.0,100,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Thiago Costa,208,29,31322.0,76,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Thiago Goncalves,81,34,29759.0,98,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Thiago Pereira,52,36,37481.0,95,3,3,3,9,333,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Thiago Rodrigues,74,37,36573.0,90,4,3,3,10,433,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Thiago Silva,86,22,27161.0,50,4,1,2,7,412,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Tiago Barros,10,85,84673.0,216,1,5,5,11,155,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Tiago Cavalcanti,40,34,23628.0,87,3,2,1,6,321,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Tiago Correia,68,45,50474.0,119,4,4,4,12,444,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Tiago Ferreira,87,62,68302.0,148,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Tiago Melo,132,26,37798.0,54,5,1,3,9,513,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Tiago Santos,32,22,16023.0,51,3,1,1,5,311,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Tomás Almeida,8,29,29450.0,56,1,1,2,4,112,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Tomás Carvalho,11,38,36878.0,107,1,3,3,7,133,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Tomás Cavalcanti,11,25,23961.0,59,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Tomás Fernandes,33,55,72974.0,129,3,5,5,13,355,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Tomás Goncalves,25,45,51767.0,110,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Tomás Melo,86,68,57283.0,172,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Tomás Oliveira,282,27,26819.0,68,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Tânia Costa,4,44,35060.0,84,1,4,3,8,143,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Tânia Fernandes,75,37,31719.0,103,4,3,2,9,432,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Tânia Lima,7,44,48765.0,96,1,4,4,9,144,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Tânia Martins,23,30,18616.0,75,2,2,1,5,221,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Tânia Melo,48,35,48841.0,80,3,2,4,9,324,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Tânia Pinto,22,79,78554.0,199,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Tânia Santos,96,32,21475.0,75,4,2,1,7,421,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Victor Barbosa,167,35,45339.0,103,5,2,4,11,524,Alto Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Victor Cardoso,21,24,18853.0,57,2,1,1,4,211,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Victor Castro,14,31,40123.0,89,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Victor Correia,104,26,25856.0,54,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Victor Dias,13,37,42997.0,109,2,3,4,9,234,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Victor Rodrigues,25,45,36327.0,109,2,4,3,9,243,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Victor Santos,5,25,20045.0,63,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Victor Sousa,2,25,24827.0,51,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Victor Souza,23,44,47686.0,131,2,4,4,10,244,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vinicius Barros,27,33,20134.0,72,2,2,1,5,221,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vinicius Fernandes,2,41,48092.0,110,1,4,4,9,144,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vinicius Ferreira,108,25,20736.0,57,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Vinicius Goncalves,17,35,41780.0,88,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vinicius Melo,19,57,62085.0,140,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vinicius Rocha,117,32,28722.0,77,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Vinicius Souza,66,66,68702.0,162,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Vinícius Almeida,74,35,39781.0,86,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Vinícius Barbosa,40,38,31623.0,104,3,3,2,8,332,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Vinícius Barros,98,41,38495.0,97,4,4,3,11,443,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Vinícius Cavalcanti,78,52,56477.0,125,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Vinícius Fernandes,2,39,39122.0,103,1,3,3,7,133,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vinícius Ferreira,132,42,42579.0,94,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Vinícius Martins,14,43,34478.0,117,2,4,2,8,242,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vinícius Oliveira,41,41,41520.0,107,3,4,3,10,343,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Vinícius Silva,34,36,41835.0,92,3,3,3,9,333,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Vinícius Sousa,325,22,19297.0,59,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Vinícius Souza,38,46,40927.0,111,3,4,3,10,343,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Vitor Azevedo,10,31,24960.0,73,1,2,1,4,121,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vitor Barros,158,41,53329.0,94,5,4,4,13,544,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Vitor Carvalho,38,39,38832.0,91,3,3,3,9,333,Médio Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Vitor Correia,143,25,28070.0,51,5,1,2,8,512,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Vitor Dias,108,32,26341.0,72,5,2,2,9,522,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Vitor Fernandes,70,32,30097.0,79,4,2,2,8,422,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Vitor Lima,3,18,16703.0,43,1,1,1,3,111,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vitor Santos,6,33,29667.0,71,1,2,2,5,122,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vitoria Araujo,56,30,49985.0,78,4,2,4,10,424,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Vitoria Barbosa,4,36,36511.0,98,1,3,3,7,133,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vitoria Carvalho,72,34,35617.0,83,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Vitoria Goncalves,342,38,38445.0,100,5,3,3,11,533,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Vitoria Melo,156,33,40734.0,93,5,2,3,10,523,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Vitoria Ribeiro,84,33,36655.0,74,4,2,3,9,423,Médio Valor,Clientes Potenciais,Converter: Incentivar compras mais frequentes com promoções personalizadas e cross-sell.
+Vitór Araujo,22,39,27171.0,99,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vitór Cardoso,35,37,29318.0,84,3,3,2,8,332,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Vitór Ferreira,12,94,109706.0,245,2,5,5,12,255,Alto Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vitór Martins,45,43,48903.0,98,3,4,4,11,344,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Vitór Rocha,1,47,50567.0,105,1,5,4,10,154,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vitór Sousa,13,35,38464.0,77,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vitória Alves,135,21,24158.0,54,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Vitória Azevedo,37,32,29021.0,78,3,2,2,7,322,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Vitória Dias,108,29,22715.0,73,5,1,1,7,511,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Vitória Gomes,78,63,57802.0,148,4,5,5,14,455,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Vitória Pereira,26,38,40590.0,97,2,3,3,8,233,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Vitória Rocha,6,50,41165.0,128,1,5,3,9,153,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Yasmin Barros,16,35,31142.0,85,2,2,2,6,222,Baixo Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Yasmin Ferreira,76,20,6829.0,49,4,1,1,6,411,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Ágatha Almeida,94,38,24308.0,101,4,3,1,8,431,Médio Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Ágatha Barbosa,27,35,37101.0,86,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Ágatha Castro,78,43,51466.0,121,4,4,4,12,444,Alto Valor,Campeões,Priorizar: Oferecer benefícios exclusivos e programas VIP para maximizar retenção e valor.
+Ágatha Correia,135,38,38640.0,91,5,3,3,11,533,Alto Valor,Clientes Fiéis,Manter: Enviar comunicações regulares e ofertas de upsell para fortalecer o relacionamento.
+Ágatha Fernandes,38,29,32658.0,88,3,1,2,6,312,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Ágatha Martins,21,36,25795.0,95,2,3,2,7,232,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
+Ágatha Oliveira,37,22,26646.0,50,3,1,2,6,312,Baixo Valor,Novos Clientes,Integrar: Bem-vindo e orientações para construir lealdade desde o início.
+Ágatha Sousa,31,30,37882.0,64,2,2,3,7,223,Médio Valor,Clientes em Risco,Reativar: Campanhas de win-back com descontos e lembretes para recuperar interesse.
